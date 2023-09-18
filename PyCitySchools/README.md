@@ -1,6 +1,4 @@
 # PyCity Schools Analysis
-
-Performing an analysis of school and student data to gain insights into the performance of schools and students in the fictional PyCity school district.
 The PyCity Schools Analysis provides a thorough analysis of many elements influencing academic achievement in the made-up PyCity school system. This research includes summaries at the district level, school level information, grade level score insights, per-student costs, school size implications, and school type effects. Finding connections between these variables and providing insight into the district's broader educational landscape are the objectives.
 
 ## Data Source
